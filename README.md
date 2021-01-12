@@ -1,5 +1,7 @@
 # Git describe
 
+![npm](https://img.shields.io/npm/v/@contiamo/git-describe)
+
 Simple package to provide a semver compatible version of `git describe`.
 
 ## Usage
